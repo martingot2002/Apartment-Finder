@@ -1,2 +1,3 @@
 # Apartment-Finder
-This is the landing page for the apartment finder projects.
+This is the landing page for the apartment finder project.
+Visit ..
