@@ -18,7 +18,7 @@
     height: 300px;
     width: 100%;
     align-items: center;
-    padding-top: 20px;
+    padding-top: 40px;
 }
 
 .about{
@@ -62,15 +62,25 @@ nav {
 
 ul {
     display:flex;
-    justify-content:space-around; 
+    justify-content:space-around;
 }
 
 li {
-    list-style: none;  
+    list-style: none;
+    font-size: 1.5em;
+      
 }
 
 body {
     background-color: grey;
+}
+form h1{
+    font-size: 3em;
+    
+}
+
+input{
+    font-size: 1.5em;
 }
 
 .but {
@@ -78,6 +88,7 @@ body {
     width: 100px;
     height: 60px;
     border-radius:20px;
+    font-size: 1.5em;
 }
 
 .text-center {
@@ -127,6 +138,7 @@ body {
     input{
         display: block;
         padding: 10px;
+        
     }
 
     #header{
@@ -178,6 +190,7 @@ body {
     input{
         display: block;
         padding: 10px;
+        font-size: 1.5em;
     }
 
     #header{
@@ -188,6 +201,8 @@ body {
         display: flex;
         flex-direction: column;
     }
+
+
 
 
     .images {
